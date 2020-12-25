@@ -820,6 +820,7 @@ footer {
     text-align: center;
   }
   .slideText h2 {
+    text-align: center !important;
     font-size: 25px !important;
   }
 }
