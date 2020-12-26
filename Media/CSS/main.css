@@ -823,6 +823,9 @@ footer {
     text-align: center !important;
     font-size: 25px !important;
   }
+  .whyWe .col-lg-6 h2 {
+    word-break: break-all;
+  }
 }
 * {
   animation-duration: 1.3s !important;
